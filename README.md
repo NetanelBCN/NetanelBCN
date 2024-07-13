@@ -1,10 +1,10 @@
 # 💫 About Me:
-Software Engineering Student<br>
-I am a collaborative team player with excellent interpersonal skills, experienced in various aspects of software development. 
-<br>My expertise includes Android development, 3D game development using Unity (C#), and object-oriented programming with Java.
-<br>Completed courses in design patterns and requirements engineering, where I successfully managed a significant research project. 
-<br>Currently majoring in Mobile Application Development in college, which is providing me with a solid foundation and specialized knowledge in this field. 
-<br>My technical proficiency and dedication make me a valuable asset in any development team.
+### Software Engineering Student<br>
+### Collaborative team player with excellent interpersonal skills, experienced in various aspects of software development. 
+### <br>My expertise includes Android development, 3D game development using Unity (C#), and object-oriented programming with Java.
+### <br>Completed courses in design patterns and requirements engineering, where I successfully managed a significant research project. 
+### <br>Currently majoring in Mobile Application Development in college, which is providing me with a solid foundation and specialized knowledge in this field. 
+### <br>My technical proficiency and dedication make me a valuable asset in any development team.
 
 
 
