@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### - Software Engineering Student<br>
+#### - B.Sc. Software Engineering <br>
 #### - Collaborative team player with excellent interpersonal skills, experienced in various aspects of software development. 
 #### - My expertise includes Android development, 3D game development using Unity (C#), and object-oriented programming with Java.
 #### - Completed courses in design patterns and requirements engineering, where I successfully managed a significant research project. 
